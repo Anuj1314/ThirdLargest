@@ -1,2 +1,2 @@
 # ThirdLargest
-Java Program to find third largest Element from an Array
+Java Program to find First, Second and Third largest element from an Array.
